@@ -25,6 +25,7 @@ Results:
   4) Charles Casper Stockham recieved 23.0% (85,213) of the votes, Diana DeGette recieved 73.8% (272,892) of the votes, Raymon Anthony Doane recieved 3.1%       (11,606) of the votes
   5) Diana DeGette recieved 73.8% (272,892) of the votes making her the winner of the election
   6) Here is the summary of the results 
+  
   ![Election_Analysis](https://github.com/jrg12300/Election_Analysis/blob/main/Election_reults_terminal_picture.png)
   
 Summary:
